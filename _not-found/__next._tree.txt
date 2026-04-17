@@ -1,0 +1,4 @@
+:HL["/leyan-website/_next/static/chunks/0nw3hgq---_2g.css","style"]
+:HL["/leyan-website/_next/static/chunks/02590j50stdpt.css","style"]
+:HL["/leyan-website/images/logo_white.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PQtv3cas3Wps1LrDi3EO5"}
